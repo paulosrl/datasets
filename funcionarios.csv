@@ -1,0 +1,37 @@
+﻿matricula_funcio0rio,estado_civil,grau_instrucao,filhos,salario,idade,regiao
+1,solteiro,1o Grau,0,4000,26,interior
+2,casado,1o Grau,1,4560,32,capital
+3,casado,1o Grau,2,5250,36,capital
+4,solteiro,2o Grau,0,5730,20,outro
+5,solteiro,1o Grau,0,6260,40,outro
+6,casado,1o Grau,0,6660,28,interior
+7,solteiro,1o Grau,0,6860,41,interior
+8,solteiro,1o Grau,0,7390,43,capital
+9,casado,2o Grau,1,7590,34,capital
+10,solteiro,2o Grau,0,7440,23,outro
+11,casado,2o Grau,2,8120,33,interior
+12,solteiro,1o Grau,0,8460,27,capital
+13,solteiro,2o Grau,0,8740,37,outro
+14,casado,1o Grau,3,8950,44,outro
+15,casado,2o Grau,0,9130,30,interior
+16,solteiro,2o Grau,0,9350,38,outro
+17,casado,2o Grau,1,9770,31,capital
+18,casado,1o Grau,2,9800,39,outro
+19,solteiro,Superior,0,10530,25,interior
+20,solteiro,2o Grau,0,10760,37,interior
+21,casado,2o Grau,1,11060,30,outro
+22,solteiro,2o Grau,0,11590,34,capital
+23,solteiro,1o Grau,0,12000,41,outro
+24,casado,Superior,0,12790,26,outro
+25,casado,2o Grau,2,13230,32,interior
+26,casado,2o Grau,2,13600,35,outro
+27,solteiro,1o Grau,0,13850,46,outro
+28,casado,2o Grau,0,14690,29,interior
+29,casado,2o Grau,5,14710,40,interior
+30,casado,2o Grau,2,15990,35,capital
+31,solteiro,Superior,0,16220,31,outro
+32,casado,2o Grau,1,16610,36,interior
+33,casado,Superior,3,17260,43,capital
+34,solteiro,Superior,0,18750,33,capital
+35,casado,2o Grau,2,19400,48,capital
+36,casado,Superior,3,23300,42,interior
